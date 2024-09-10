@@ -1,6 +1,6 @@
-Rock-Paper-Scissors Game
-Welcome to the Rock-Paper-Scissors Game repository! This project is a simple, interactive web-based implementation of the classic game Rock-Paper-Scissors, utilizing HTML, CSS, and JavaScript.
-
+ROCK-PAPER-SCISSORS GAME!
+Welcome to the Rock-Paper-Scissors Game repository!
+This project is a simple, interactive web-based implementation of the classic game Rock-Paper-Scissors, utilizing HTML, CSS, and JavaScript.
 The Rock-Paper-Scissors game allows users to play against the computer with a clean and responsive design. This project includes:
 
 FORMAT: 
@@ -17,7 +17,7 @@ Visual Feedback: Clear color-coded results indicating wins, losses, and ties.
 INSTALLATION:
 To get started with the Rock-Paper-Scissors game:
 1)Clone the Repository
-git clone https://github.com/yourusername/rock-paper-scissors.git
+git clone https://github.com/KSaayushofficial/Rock-Paper-Scissors.git
 
 2)Navigate to the Project Directory
 cd rock-paper-scissors
